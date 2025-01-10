@@ -21,7 +21,6 @@ on:
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
-  pull_request:
 jobs:
   release:
     name: Build and deploy site
