@@ -4,22 +4,22 @@ repo: status
 sites:
   - name: status
     url: https://status.shuuji3.xyz
-  - name: web
+  - name: www
     url: https://www.shuuji3.xyz
   - name: weblog
     url: https://weblog.shuuji3.xyz
+  - name: linkding
+    url: https://linkding.shuuji3.xyz
   - name: pds
     url: https://pds.shuuji3.xyz
   - name: takahe
     url: https://takahe.shuuji3.xyz
+  - name: argocd
+    url: https://argocd.shuuji3.xyz
   - name: google-engineering-practices.translation
     url: https://google-engineering-practices.translation.shuuji3.xyz
   - name: psycopg3-ja.translation
     url: https://psycopg3-ja.translation.shuuji3.xyz
-  - name: argocd
-    url: https://argocd.shuuji3.xyz
-  - name: linkding
-    url: https://linkding.shuuji3.xyz
   - name: smart-health-cards-framework.translation
     url: https://smart-health-cards-framework.translation.shuuji3.xyz
 #  - name: IPv6 test
@@ -29,10 +29,7 @@ sites:
 #    ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.shuuji3.xyz
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
