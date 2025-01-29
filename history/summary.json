@@ -5,27 +5,29 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.shuuji3.xyz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 125,
     "timeDay": 94,
     "timeWeek": 110,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "www",
     "url": "https://www.shuuji3.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.shuuji3.xyz.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
@@ -33,7 +35,9 @@
     "timeWeek": 473,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "weblog",
@@ -58,10 +62,10 @@
     "url": "https://linkding.shuuji3.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/linkding.shuuji3.xyz.ico",
     "slug": "linkding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
@@ -69,16 +73,18 @@
     "timeWeek": 926,
     "timeMonth": 844,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "pds",
     "url": "https://pds.shuuji3.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/pds.shuuji3.xyz.ico",
     "slug": "pds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +93,18 @@
     "timeWeek": 564,
     "timeMonth": 571,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "takahe",
     "url": "https://takahe.shuuji3.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/takahe.shuuji3.xyz.ico",
     "slug": "takahe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +113,9 @@
     "timeWeek": 445,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "argocd",
