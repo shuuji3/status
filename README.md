@@ -1,5 +1,7 @@
 # [📈 Live Status](https://status.shuuji3.xyz): <!--live status--> **🟩 All systems operational**
 
+PR test
+
 This repository contains the open-source uptime monitor and status page for [TAKAHASHI Shuuji](https://shuuji3.xyz), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/shuuji3/status/workflows/Uptime%20CI/badge.svg)](https://github.com/shuuji3/status/actions?query=workflow%3A%22Uptime+CI%22)
