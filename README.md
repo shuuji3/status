@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Stopped on 2026-05-06. This seems to be too unreliable. Even the service is totally down for several months, it cannot record it properly.
+
 # [📈 Live Status](https://status.shuuji3.xyz): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [TAKAHASHI Shuuji](https://shuuji3.xyz), powered by [Upptime](https://github.com/upptime/upptime).
