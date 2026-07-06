@@ -1,5 +1,5 @@
 > [!NOTE]
-> Launched uptime-kuma at the same subdomain https://status.shuuji3.xyz since 2026-07-06.
+> Launched [uptime-kuma](https://github.com/louislam/uptime-kuma) at the same subdomain https://status.shuuji3.xyz/status since 2026-07-06.
 
 > [!WARNING]  
 > Stopped on 2026-05-06. This seems to be too unreliable. Even the service is totally down for several months, it cannot record it properly.
